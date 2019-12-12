@@ -1,0 +1,17 @@
+/* 가게 정보와 지도 */
+#location {
+    padding: 4% 0;
+}
+#location .wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+.location-info {
+    width: 22%;
+}
+.location-info p {
+    padding: 12px 10px;
+}
+.location-map {
+    width: 74%;
+}

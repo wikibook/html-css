@@ -1,0 +1,19 @@
+/* 제목 */
+.page-title {
+    font-size: 5rem;
+    font-family: 'Philosopher', serif;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+/* 버튼 */
+.button {
+    font-size: 1.375rem;
+    background: #0bd;
+    color: #fff;
+    border-radius: 5px;
+    padding: 18px 32px;
+}
+.button:hover {
+    background: #0090aa;
+}

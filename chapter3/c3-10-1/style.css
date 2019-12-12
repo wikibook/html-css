@@ -1,0 +1,12 @@
+@charset "UTF-8";
+div {
+  background: #0bd;
+  margin-top: 30px;
+  margin-left: 100px;
+}
+
+/*알기 쉽게 공간을 넓게 설정했습니다.*/
+div {
+  width: 500px;
+  height: 300px;
+}

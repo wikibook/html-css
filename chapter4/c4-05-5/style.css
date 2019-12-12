@@ -1,0 +1,6 @@
+/* 큰 배경 이미지 */
+.big-bg {
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+}

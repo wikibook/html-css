@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+/* 공통 부분
+------------------------------- */
+html {
+    font-size: 100%;
+}
+body{
+    font-family: "나눔고딕", NanumGothic, "맑은고딕", MalgunGothic, "Apple SD Gothic Neo", sans-serif;
+    line-height: 1.7;
+    color: #432;
+}
+a {
+    text-decoration: none;
+}
+img {
+    max-width: 100%;
+}
